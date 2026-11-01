@@ -1,6 +1,6 @@
 # Netra
 Privacy-first local prototype for reviewing digital safety: alerts, media authenticity, case tracking, and complaint drafts.
-NETRA Guardian is a local, privacy-first prototype that helps people review their digital safety from inside their own browser. It runs on a small Node.js server (v18 or newer) with no dependencies, API keys, or accounts. Start it with `npm start` and open http://127.0.0.1:5500.
+NETRA Guardian is a local, privacy-first prototype that helps people review their digital safety from inside their own browser. It runs on a small Node.js server (v18 or newer) with no dependencies, API keys, or accounts. 
 
 **What it includes**
 - **Dashboard and alerts:** Sample alerts such as a public post exposing an email address or phone number, a repeated routine that reveals a pattern, or a look-alike profile. They load from a CSV file and are sorted by priority.
